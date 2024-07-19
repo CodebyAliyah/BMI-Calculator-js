@@ -1,0 +1,14 @@
+body {
+  background-color: #fff;
+  padding: 10px 30px;
+  border-radius: 8px;
+  color: #212121;
+  background-color: grey;
+  text-decoration: none;
+  border: 2px solid;
+} 
+
+input {
+  height: 23px;
+  width: 200px;
+}
